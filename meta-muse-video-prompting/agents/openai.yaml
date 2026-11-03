@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meta Muse Video 프롬프트"
+  short_description: "메타 Muse 영상의 인물 동작·카메라·조명·음향을 설계하는 한국어 스킬"
+  default_prompt: "$meta-muse-video-prompting으로 첨부 이미지의 인물이 자연스럽게 움직이는 영상 프롬프트를 만들어줘."
